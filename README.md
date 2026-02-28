@@ -2,13 +2,6 @@
 
 Official whitelist file for CosmicPrisons client-side mods.
 
-## Mods Included
-
-- AutoSell
-- AutoCombine
-- AutoCosmicAbsorber
-- AutoPowerball
-
 ## How to Use
 
 The mods automatically fetch the whitelist from this repository. When you add a player UUID to `whitelist.json`, they will have instant access to the mods on next launch.
