@@ -1,6 +1,6 @@
 # Whitelist
 
-Official whitelist file for CosmicPrisons client-side mods.
+Official whitelist file for client-side mods.
 
 ## How to Use
 
