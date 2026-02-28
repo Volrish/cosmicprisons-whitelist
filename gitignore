@@ -1,0 +1,45 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Minecraft
+.minecraft/
+run/
+mods/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Node (if using any build tools)
+node_modules/
+npm-debug.log
