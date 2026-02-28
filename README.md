@@ -1,4 +1,4 @@
-# CosmicPrisons Whitelist
+# Whitelist
 
 Official whitelist file for CosmicPrisons client-side mods.
 
